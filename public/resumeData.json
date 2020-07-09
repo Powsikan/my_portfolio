@@ -93,28 +93,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Smart Voting System",
+        "category":"Automatic voting system for voting from any place of the country.",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/Powsikan/VOTING_SYSTEM_Backend"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"OCR",
+        "category":"Extract the text from image by using this app.",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/Powsikan/OCR_Text_Detector"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"E-Library",
+        "category":"Online library management system.",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/Powsikan/E-Library"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Weather App",
+        "category":"A React based Weather finder app.",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/Powsikan/WeatherApp"
       }
     ]
   }
