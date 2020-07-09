@@ -4,7 +4,7 @@
     "description":"I'm a Software Engineering undergraduate student seeking for an Internship as a Software Engineer. I have good knowledge and hands on experience in Java technologies and I’m eager to learn new technologies.",
     "image":"profilepic.jpg",
     "bio":"I'm a Software Engineering undergraduate student seeking for an Internship as a Software Engineer. I have good knowledge and hands on experience in Java technologies and I’m eager to learn new technologies.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Lets talk with me .....",
     "email": "powsi1997@gmail.com",
     "phone": "+94775041599",
     "github":"https://github.com/powsikan",
@@ -16,7 +16,7 @@
       "zip": "44000"
     },
     "website": "http://www.powsikan.me",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1lTJIwlu8tB1z1Jj-R9Y6N1Y0sCoayZ_I/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -25,7 +25,7 @@
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com/powsikan56",
+        "url":"https://twitter.com/Kpowsikan",
         "className":"fa fa-twitter"
       },
       {
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I'm familiar with these technologies.",
     "education":[
       {
         "school":"University of kelaniya",
@@ -115,12 +115,6 @@
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
