@@ -1,17 +1,17 @@
 {
   "main": {
     "name":"Powsikan Kanthasamy",
-    "description":"I am a software engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"I'm a Software Engineering undergraduate student seeking for an Internship as a Software Engineer. I have good knowledge and hands on experience in Java technologies and I’m eager to learn new technologies.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I'm a Software Engineering undergraduate student seeking for an Internship as a Software Engineer. I have good knowledge and hands on experience in Java technologies and I’m eager to learn new technologies.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "powsi1997@gmail.com",
     "phone": "+94775041599",
     "github":"https://github.com/powsikan",
     "project":"https://github.com/powsikan/my_portfolio",
     "address":{
-      "street":"82/1, Murasumoddai",
-      "city":"Kilinochchi",
+      "street":"82/1, Murasumoddai,",
+      "city":"Kilinochchi ",
       "state":"Sri Lanka",
       "zip": "44000"
     },
@@ -52,13 +52,13 @@
         "school":"University of kelaniya",
         "degree":"BSc.(Hons) in Software Engineering",
         "graduated":"April 2022",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"CGPA : 3.49"
       },
       {
         "school":"KN/Murugananda college",
         "degree":"Physical science",
         "graduated":"August 2016",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Result : 3C"
       }
     ],
     "work":[
@@ -66,12 +66,6 @@
         "company":"Awesome Design Studio",
         "title":"Senior UX God ",
         "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
