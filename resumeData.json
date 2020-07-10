@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Powsikan Kanthasamy",
+    "description":"I'm a Software Engineering undergraduate student seeking for an Internship as a Software Engineer. I have good knowledge and hands on experience in Java technologies and I’m eager to learn new technologies.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a Software Engineering undergraduate student seeking for an Internship as a Software Engineer. I have good knowledge and hands on experience in Java technologies and I’m eager to learn new technologies.",
+    "contactmessage":"Lets talk with me .....",
+    "email": "powsi1997@gmail.com",
+    "phone": "+94775041599",
+    "github":"https://github.com/powsikan",
+    "project":"https://github.com/powsikan/my_portfolio",
+    "address":{
+      "street":"82/1, Murasumoddai,",
+      "city":"Kilinochchi ",
+      "state":"Sri Lanka",
+      "zip": "44000"
+    },
+    "website": "http://www.powsikan.me",
+    "resumedownload":"https://drive.google.com/file/d/1lTJIwlu8tB1z1Jj-R9Y6N1Y0sCoayZ_I/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Powsikan97",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Kpowsikan",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/powsikan/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/powsikan56",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/powsikan",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm familiar with these technologies.",
+    "education":[
+      {
+        "school":"University of kelaniya",
+        "degree":"BSc.(Hons) in Software Engineering",
+        "graduated":"April 2022",
+        "description":"CGPA : 3.49"
+      },
+      {
+        "school":"KN/Murugananda college",
+        "degree":"Physical science",
+        "graduated":"August 2016",
+        "description":"Result : 3C"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"60%"
+      },
+
+      {
+        "name":"Spring-boot",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart Voting System",
+        "category":"Automatic voting system for voting from any place of the country.",
+        "image":"vote.jpg",
+        "url":"https://github.com/Powsikan/VOTING_SYSTEM_Backend"
+      },
+      {
+        "title":"OCR",
+        "category":"Extract the text from image by using this app.",
+        "image":"ocr.png",
+        "url":"https://github.com/Powsikan/OCR_Text_Detector"
+      },
+      {
+        "title":"E-Library",
+        "category":"Online library management system.",
+        "image":"elibrary.jpg",
+        "url":"https://github.com/Powsikan/E-Library"
+      },
+      {
+        "title":"Weather App",
+        "category":"A React based Weather finder app.",
+        "image":"weather.jpg",
+        "url":"https://github.com/Powsikan/WeatherApp"
+      }
+    ]
+  }
+}
