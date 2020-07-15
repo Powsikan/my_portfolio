@@ -35,11 +35,12 @@ class Header extends Component {
       <div className="row banner">
       
          <div className="banner-text">
-
+             <div className="row" style={{align:"center"}}>
              <div className="three columns" >
                  <img className="profile-pic"  src={profilepic} alt="Powsikan Profile Pic"  style={{borderRadius: "50%"}}/>
              </div>
-             <div  style={{textAlign:"center"}}>
+             </div>
+
             <h1 className="responsive-headline">{name}</h1>
             <h3>{description}</h3>
             <hr />
@@ -47,7 +48,7 @@ class Header extends Component {
                <a href={linkedin} className="button btn LinkedIn-btn" ><i className="fa fa-linkedin"></i>LinkedIn</a>
                <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
             </ul>
-             </div>
+
          </div>
       </div>
 
