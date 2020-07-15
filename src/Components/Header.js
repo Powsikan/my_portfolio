@@ -35,7 +35,7 @@ class Header extends Component {
       <div className="row banner">
       
          <div className="banner-text">
-             <div className="row" style={{align:"center"}}>
+             <div className="row" >
              <div className="three columns" >
                  <img className="profile-pic"  src={profilepic} alt="Powsikan Profile Pic"  style={{borderRadius: "50%"}}/>
              </div>
