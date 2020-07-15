@@ -86,6 +86,14 @@
       {
         "name":"MySQL",
         "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"Flutter",
+        "level":"50%"
       }
 
     ]
