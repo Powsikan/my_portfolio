@@ -52,7 +52,7 @@
         "school":"University of kelaniya",
         "degree":"BSc.(Hons) in Software Engineering",
         "graduated":"April 2022",
-        "description":"CGPA : 3.49"
+        "description":"CGPA : 3.53"
       },
       {
         "school":"KN/Murugananda college",
@@ -102,25 +102,31 @@
     "projects": [
       {
         "title":"Smart Voting System",
-        "category":"Automatic voting system for voting from any place of the country.",
+        "category":"Automatic voting system for voting from any place of the country.\n Spring boot | Mongo DB",
         "image":"vote.jpg",
         "url":"https://github.com/Powsikan/VOTING_SYSTEM_Backend"
       },
       {
         "title":"OCR",
-        "category":"Extract the text from image by using this app.",
+        "category":"Extract the text from image by using this app.\n Spring boot | MySQL",
         "image":"ocr.png",
         "url":"https://github.com/Powsikan/OCR_Text_Detector"
       },
       {
+        "title":"University System",
+        "category":"Authenticated student can enroll for subjects and view their profile.\n Java | MySQL",
+        "image":"university.jpg",
+        "url":"https://github.com/Powsikan/UniversitySystem"
+      },
+      {
         "title":"E-Library",
-        "category":"Online library management system.",
+        "category":"Online library management system.\n PHP | MySQL | HTML |CSS",
         "image":"elibrary.jpg",
         "url":"https://github.com/Powsikan/E-Library"
       },
       {
         "title":"Weather App",
-        "category":"A React based Weather finder app.",
+        "category":"A React based Weather finder app. \n React | Third party  API",
         "image":"weather.jpg",
         "url":"https://github.com/Powsikan/WeatherApp"
       }
