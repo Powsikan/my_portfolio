@@ -113,6 +113,12 @@
         "url":"https://github.com/Powsikan/OCR_Text_Detector"
       },
       {
+        "title":"University System",
+        "category":"Authenticated student can enroll for subjects and view their profile.",
+        "image":"university.png",
+        "url":"https://github.com/Powsikan/UniversitySystem"
+      },
+      {
         "title":"E-Library",
         "category":"Online library management system.",
         "image":"elibrary.jpg",
